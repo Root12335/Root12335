@@ -4,10 +4,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+%7C+React+Specialist;Building+Fast+%2B+Scalable+%2B+Secure+Software;Clean+Code+%7C+Smart+Systems+%7C+Problem+Solver;Where+Business+Meets+Technology" alt="Typing SVG" />
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=00FF41&labelColor=0D1117&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0D1117)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FF41?style=for-the-badge&logo=vercel&logoColor=00FF41&labelColor=0D1117)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-Contact-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0D1117)](mailto:your.email@example.com)
+[![GitHub followers](https://img.shields.io/github/followers/Root12335?style=for-the-badge&color=00FF41&labelColor=0D1117&logo=github)](https://github.com/Root12335)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0D1117)](https://www.linkedin.com/in/amr-khaled-8a47a921b/)
+[![Email](https://img.shields.io/badge/Email-Contact-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0D1117)](mailto:amrkhaled15243@gmail.com)
 
 ---
 
@@ -281,8 +280,7 @@ const motivation = {
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0D1117)](https://www.linkedin.com/in/amr-khaled-8a47a921b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-00FF41?style=for-the-badge&logo=vercel&logoColor=00FF41&labelColor=0D1117)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-Get_In_Touch-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0D1117)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Get_In_Touch-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0D1117)](mailto:amrkhaled15243@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117)](https://github.com/Root12335)
 
 </div>
